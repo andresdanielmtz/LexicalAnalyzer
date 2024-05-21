@@ -1,6 +1,7 @@
-# Actividad 3.4
+# Analizador Léxico
 
-## Implementación de Métodos Computacionales
+> Este proyecto fue realizado para la actividad 3.4 de la materia Implementación de Métodos Computacionales por parte del Tecnológico de Monterrey.
+
 
 ### Integrantes
 
